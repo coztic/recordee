@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "2.x.x",
+    "jade": "~0.35.0",
+    "socket.io": "~0.9.16"
+  }
+}
